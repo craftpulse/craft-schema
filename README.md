@@ -54,7 +54,7 @@ For example:
 
 Generates the following output:
 
-```javascript
+```html
 <script type="application/ld+json">
 {  
    "@context":"http:\/\/schema.org",
