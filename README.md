@@ -31,7 +31,7 @@ Once Schema is installed, it's accessible through the `craft` variable in your t
 For the best experience, set the schema to a variable and typehint it to Spatie's model. In combination with the [Symfony plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) for PHPStorm, you get autocompletion for all the Schema's and their properties.
 
 For example:
-```
+```twig
 {# @var schema \Spatie\SchemaOrg\Schema #}
 {% set schema = craft.schema %}
 {{ schema
@@ -54,7 +54,7 @@ For example:
 
 Generates the following output:
 
-```
+```javascript
 <script type="application/ld+json">
 {  
    "@context":"http:\/\/schema.org",
