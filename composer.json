@@ -1,0 +1,48 @@
+{
+    "name": "rias/schema",
+    "description": "A fluent builder Schema.org types and ld+json generator based on Spatie's schema-org package",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "schema"
+    ],
+    "support": {
+        "docs": "https://github.com/rias500/schema/blob/master/README.md",
+        "issues": "https://github.com/rias500/schema/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rias",
+            "homepage": "https://rias.be"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1",
+        "spatie/schema-org": "^1.4"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "rias\\schema\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "schema",
+        "handle": "schema",
+        "schemaVersion": "1.0.0",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/rias500/schema/master/CHANGELOG.md",
+        "class": "rias\\schema\\Schema"
+    }
+}
