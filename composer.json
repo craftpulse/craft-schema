@@ -1,5 +1,5 @@
 {
-    "name": "rias/schema",
+    "name": "rias/craft-schema",
     "description": "A fluent builder Schema.org types and ld+json generator based on Spatie's schema-org package",
     "type": "craft-plugin",
     "version": "1.0.0",
