@@ -1,1 +1,17 @@
-<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><metadata><?xpacket begin="&#65279;" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156289, 2014/03/31-23:39:12        "></x:xmpmeta><?xpacket end="w"?></metadata><switch><foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1"></foreignObject><g i:extraneous="self"><g><g><path d="M76,31H24V15h52V31z M26,29h48V17H26V29z"></path></g><g><g><path d="M44,58H26V40h18V58z M28,56h14V42H28V56z"></path></g><g><path d="M69,58H51V40h18V58z M53,56h14V42H53V56z"></path></g></g><g><g><path d="M30,85H12V67h18V85z M14,83h14V69H14V83z"></path></g><g><path d="M59,85H41V67h18V85z M43,83h14V69H43V83z"></path></g><g><path d="M88,85H70V67h18V85z M72,83h14V69H72V83z"></path></g></g><g><rect x="49" y="30" width="2" height="5"></rect></g><g><polygon points="66,41 64,41 64,36 36,36 36,41 34,41 34,34 66,34     "></polygon></g><g><rect x="34" y="58" width="2" height="4"></rect></g><g><polygon points="52,68 50,68 50,63 22,63 22,68 20,68 20,61 52,61     "></polygon></g><g><polygon points="80,68 78,68 78,48 68,48 68,46 80,46     "></polygon></g></g></g></switch></svg>
+
+<svg width="94px" height="94px" viewBox="0 0 94 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-273.000000, -30.000000)">
+            <g id="craft-schema" transform="translate(273.000000, 30.000000)">
+                <circle id="background" fill="#4DC0B5" cx="47" cy="47" r="47"></circle>
+                <g id="icon" transform="translate(24.000000, 25.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M33,18 L15,18 L15,0 L33,0 L33,18 Z M18,15 L30,15 L30,3 L18,3 L18,15 Z" id="Shape"></path>
+                    <path d="M18,45 L0,45 L0,27 L18,27 L18,45 Z M3,42 L15,42 L15,30 L3,30 L3,42 Z" id="Shape"></path>
+                    <path d="M47,45 L29,45 L29,27 L47,27 L47,45 Z M32,42 L44,42 L44,30 L32,30 L32,42 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="22" y="18" width="3" height="4"></rect>
+                    <polygon id="Shape" points="40 28 37 28 37 24 11 24 11 28 8 28 8 21 40 21"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
