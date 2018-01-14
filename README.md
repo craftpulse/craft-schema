@@ -16,7 +16,7 @@ To install the plugin, install it from the plugin store or follow these instruct
 
 2. Then tell Composer to load the plugin:
 
-        composer require rias/schema
+        composer require rias/craft3-schema
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for schema.
 
