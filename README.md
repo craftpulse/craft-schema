@@ -1,3 +1,10 @@
+![Icon](./src/icon.svg)
+
+[![Latest Version](https://img.shields.io/github/release/rias500/craft-schema.svg?style=flat-square)](https://github.com/rias500/craft-schema/releases)
+[![Quality Score](https://img.shields.io/scrutinizer/g/rias500/craft-schema.svg?style=flat-square)](https://scrutinizer-ci.com/g/rias500/craft-schema)
+[![StyleCI](https://styleci.io/repos/113483409/shield)](https://styleci.io/repos/113483409)
+[![Total Downloads](https://img.shields.io/packagist/dt/rias/craft-schema.svg?style=flat-square)](https://packagist.org/packages/rias/craft-schema)
+
 # Schema plugin for Craft CMS 3.x
 
 A fluent builder of Schema.org types and ld+json generator based on Spatie's schema-org package which makes for a fast and easy way to add structured data to your templates.
