@@ -85,3 +85,8 @@ Generates the following output:
 ```
 
 Brought to you by [Rias](https://rias.be)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/Rias500/craft-schema/badge.svg?style=beer-square)](https://beerpay.io/Rias500/craft-schema)  [![Beerpay](https://beerpay.io/Rias500/craft-schema/make-wish.svg?style=flat-square)](https://beerpay.io/Rias500/craft-schema?focus=wish)
