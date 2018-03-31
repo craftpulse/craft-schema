@@ -9,6 +9,12 @@
 
 A fluent builder of Schema.org types and ld+json generator based on Spatie's schema-org package which makes for a fast and easy way to add structured data to your templates.
 
+## Support Open Source. Buy beer.
+
+This plugin is licensed under a MIT license, which means that it's completely free open source software, and you can use it for whatever and however you wish. If you're using it and want to support the development, buy me a beer over at Beerpay!
+
+[![Beerpay](https://beerpay.io/Rias500/craft-schema/badge.svg?style=beer-square)](https://beerpay.io/Rias500/craft-schema)
+
 ## Requirements
 
 This plugin requires Craft CMS 3.0.0-RC1 or later and PHP 7.
@@ -85,8 +91,3 @@ Generates the following output:
 ```
 
 Brought to you by [Rias](https://rias.be)
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/Rias500/craft-schema/badge.svg?style=beer-square)](https://beerpay.io/Rias500/craft-schema)  [![Beerpay](https://beerpay.io/Rias500/craft-schema/make-wish.svg?style=flat-square)](https://beerpay.io/Rias500/craft-schema?focus=wish)
