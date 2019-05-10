@@ -11,8 +11,8 @@
         "schema"
     ],
     "support": {
-        "docs": "https://github.com/rias500/schema/blob/master/README.md",
-        "issues": "https://github.com/rias500/schema/issues"
+        "docs": "https://github.com/riasvdv/schema/blob/master/README.md",
+        "issues": "https://github.com/riasvdv/schema/issues"
     },
     "license": "MIT",
     "authors": [
@@ -42,7 +42,7 @@
         "schemaVersion": "1.0.0",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/rias500/schema/master/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/riasvdv/schema/master/CHANGELOG.md",
         "class": "rias\\schema\\Schema"
     }
 }
