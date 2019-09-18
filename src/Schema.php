@@ -11,7 +11,6 @@
 
 namespace rias\schema;
 
-use Craft;
 use craft\base\Plugin;
 use craft\web\twig\variables\CraftVariable;
 use rias\schema\variables\SchemaVariable;
